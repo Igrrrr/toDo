@@ -1,0 +1,22 @@
+$orange: #DE8C33;
+$dark-orange: #7F4B15;
+$grey: #282828;
+$dark-grey: #252525;
+$font-color: #D8D8D8;
+$font-dark-color: #868686;
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(265,165,0) 50%, rgba(0,0,0,1) 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
