@@ -11,7 +11,7 @@
 ### Установка
   1. Клонируйте репозиторий:
      ```bash
-     git clone https://github.com/Igrrrr/toDo.git
+     git clone https://github.com/Igrrrr/tz_toDo.git
   2. Перейдите в директорию проекта:
     cd toDo
   3. Установите зависимости:
